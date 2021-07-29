@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 1100px;
+    margin: auto;
+    position: relative;
+}
+
+.tendencias{
+    width: 371px;
+    padding-left: 10px;
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    border-left: solid 1px gray;
+}
+
+.seccion{
+    margin: 0;
+    padding-left: 47px;
+    font-family: lft-etica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    color: #EA0A0A;
+}
+.title{
+    text-align: left;
+    font-family: lft-etica, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    border-bottom: 2px solid;
+    margin-top: 0;
+}
+
+.imagen{
+    height: 247.875px;
+    margin-bottom: 25px;
+}
+
+.noticias{
+    margin-top: 10px;
+}
+.container-numtit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    border-bottom: 1px solid gray;
+}
+
+.titulo{
+    font-family: abril-titling, serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    width: 100%;
+}
+.numero{
+    font-family: lft-etica, sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+    width: 48px;
+    margin: 0;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+
